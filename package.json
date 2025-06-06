@@ -1,0 +1,22 @@
+{
+  "name": "tp-framework-suivi-depense-api",
+  "version": "1.0.0",
+  "description": "developpement d'une API REST avec nodeJS + express + mongoDB pour un outil de suivi de depense personnelle",
+  "main": "app.js",
+  "scripts": {
+    "test": "postman",
+    "dev": "nodemon app.js"
+  },
+  "author": "groupe 2 crypto: OUMAROU OUSSEINI; AMADOU ISSA; ETOUNDI URIEL; HOUSSEINI BAKARY",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "mongoose": "^8.15.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
