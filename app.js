@@ -21,7 +21,7 @@ mongoose.connect(process.env.MONGODB_URI, {
 // Routes de base
 app.get('/', (req, res) => {
   res.json({
-        groupe: 'Groupe 2 securité et cryptographie',
+        groupe: 'Groupe 3 securité et cryptographie',
         membres: 'OUMAROU OUSSEINI; AMADOU ISSA; ETOUNDI; HOUSSEINI BAKARY',
         projet: 'Developpement back-end (API REST avec NodeJS + Express + mongoDB)',
         status: 'running',
