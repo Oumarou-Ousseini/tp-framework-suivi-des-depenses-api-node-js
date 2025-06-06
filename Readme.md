@@ -1,6 +1,6 @@
 # README - API de Suivi de Dépenses Personnelles
 ## Equipe de developpement
-Ce projet (developpement d'une API REST avec nodeJS + ExpressJS + mongoDB pour un outil de suivi de depense personnelle) a été realisé par une équipe de 4 etudiants (groupe 2 securité et cryptographie) dans le cadre du cours de FRAMEWORKS ET IDE WEB dispensé par ING MANAODA YVES HERMANN. il s'agit de:
+Ce projet (developpement d'une API REST avec nodeJS + ExpressJS + mongoDB pour un outil de suivi de depense personnelle) a été realisé par une équipe de 4 etudiants (groupe 3 securité et cryptographie) dans le cadre du cours de FRAMEWORKS ET IDE WEB dispensé par ING MANAODA YVES HERMANN. il s'agit de:
         - OUMAROU OUSSEINI 22E0484EP
         - AMADOU ISSA 24ENSPM354
         - ETOUNDI URIEL AUDREY 22E0468EP
