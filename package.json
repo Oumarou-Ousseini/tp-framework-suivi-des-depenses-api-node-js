@@ -7,7 +7,7 @@
     "test": "postman",
     "dev": "nodemon app.js"
   },
-  "author": "groupe 2 crypto: OUMAROU OUSSEINI; AMADOU ISSA; ETOUNDI URIEL; HOUSSEINI BAKARY",
+  "author": "groupe 3 crypto: OUMAROU OUSSEINI; AMADOU ISSA; ETOUNDI URIEL; HOUSSEINI BAKARY",
   "license": "MIT",
   "dependencies": {
     "body-parser": "^2.2.0",
