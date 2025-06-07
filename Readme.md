@@ -47,15 +47,15 @@ cd tp framework suivi depense api
 ```bash
 npm init (cette commande permet la creation de package.json)
 ```
-2. Installer les dépendances:
+3. Installer les dépendances:
 ```bash
 npm install express mongoose body-parser cors dotenv
 ```
-2. Installer nodemon (pour le developpement):
+4. Installer nodemon (pour le developpement):
 ```bash
 npm install --save-dev nodemon
 ```
-3. Configurer l'environnement:
+5. Configurer l'environnement:
    - Créer un fichier `.env` à la racine
    - Ajouter la configuration suivante:
      ```
@@ -63,7 +63,7 @@ npm install --save-dev nodemon
      PORT=3000
      ```
 
-4. Démarrer le serveur: lancer d'abord Mongodb avant de demarrer le serveur
+6. Démarrer le serveur: lancer d'abord Mongodb avant de demarrer le serveur
 ```bash
 npm run dev
 ```
