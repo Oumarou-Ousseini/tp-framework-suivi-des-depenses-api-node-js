@@ -1,5 +1,5 @@
 {
-  "name": "tp-framework-suivi-depense-api",
+  "name": "tp-framework-suivi-des-depenses-api-node-js",
   "version": "1.0.0",
   "description": "developpement d'une API REST avec nodeJS + express + mongoDB pour un outil de suivi de depense personnelle",
   "main": "app.js",
